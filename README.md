@@ -17,8 +17,9 @@ You just have to login/sign up with your Email, To generate Unique New **API Key
 
 ## Pricing:
 
-Here's the catch 😉. You can call 1000 API per day for free.
-If you want to buy you can go through pricing tabs to know more : https://openweathermap.org/price
+<li>Here's the catch 😉. You can call 1000 API per day for free.
+
+<li>If you want to buy you can go through pricing tabs to know more : https://openweathermap.org/price </li>
 
 ## In the Code you can modify it by adding your own API Key:
 
