@@ -11,3 +11,18 @@ OpenWeatherAPI are providing highly recognisable weather products that make work
 
 How can you use it ? https://openweathermap.org/appid
 
+## Requirements for it:
+
+You just have to login/sign up with your Email, To generate Unique New **API Key**.
+
+## Pricing:
+
+Here's the catch 😉. You can call 1000 API per day for free.
+If you want to buy you can go through pricing tabs to know more : https://openweathermap.org/price
+
+## In the Code you can modify it by adding your own API Key:
+
+private static final String OPEN_WEATHER_APP_API =""; // provide key here
+
+
+
